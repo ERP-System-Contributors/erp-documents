@@ -49,6 +49,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ReportRequisition",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

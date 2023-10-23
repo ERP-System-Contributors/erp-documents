@@ -33,6 +33,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ReportTemplate",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

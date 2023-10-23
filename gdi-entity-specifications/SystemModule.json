@@ -12,6 +12,7 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "SystemModule",
+  "searchEngine": "elasticsearch",
   "pagination": "pagination",
   "readOnly": false,
   "relationships": [],

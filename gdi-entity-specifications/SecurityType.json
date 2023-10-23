@@ -27,6 +27,7 @@
   "jpaMetamodelFiltering": true,
   "name": "SecurityType",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

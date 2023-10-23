@@ -32,6 +32,7 @@
   "jpaMetamodelFiltering": true,
   "name": "IsoCurrencyCode",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

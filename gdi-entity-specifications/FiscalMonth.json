@@ -59,6 +59,7 @@
   "readOnly": false,
   "pagination": "pagination",
   "name": "FiscalMonth",
+  "searchEngine": "elasticsearch",
   "changelogDate": "20230816131238",
   "incrementalChangelog": false
 }

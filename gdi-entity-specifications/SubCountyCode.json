@@ -24,6 +24,7 @@
   "jpaMetamodelFiltering": true,
   "name": "SubCountyCode",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

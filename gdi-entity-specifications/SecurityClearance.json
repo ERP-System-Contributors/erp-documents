@@ -13,6 +13,7 @@
   "jpaMetamodelFiltering": true,
   "name": "SecurityClearance",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

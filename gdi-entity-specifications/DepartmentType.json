@@ -23,6 +23,7 @@
   "jpaMetamodelFiltering": true,
   "name": "DepartmentType",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

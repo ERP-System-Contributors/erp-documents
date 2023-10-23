@@ -52,6 +52,7 @@
   "jpaMetamodelFiltering": true,
   "readOnly": false,
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "name": "WeeklyCashHolding",
   "changelogDate": "20231004061118",
   "incrementalChangelog": false

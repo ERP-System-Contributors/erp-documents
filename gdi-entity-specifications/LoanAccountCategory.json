@@ -29,6 +29,7 @@
   "jpaMetamodelFiltering": true,
   "name": "LoanAccountCategory",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

@@ -59,5 +59,6 @@
   "pagination": "pagination",
   "name": "AgentBankingActivity",
   "changelogDate": "20231004095743",
+  "searchEngine": "elasticsearch",
   "incrementalChangelog": false
 }

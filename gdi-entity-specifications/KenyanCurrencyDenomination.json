@@ -21,6 +21,7 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "KenyanCurrencyDenomination",
+  "searchEngine": "elasticsearch",
   "pagination": "pagination",
   "readOnly": false,
   "relationships": [],

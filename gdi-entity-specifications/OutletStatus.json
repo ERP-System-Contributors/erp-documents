@@ -23,6 +23,7 @@
   "jpaMetamodelFiltering": true,
   "name": "OutletStatus",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

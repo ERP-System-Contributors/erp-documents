@@ -39,6 +39,7 @@
   "jpaMetamodelFiltering": true,
   "name": "InstitutionContactDetails",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

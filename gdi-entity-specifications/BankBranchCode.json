@@ -30,6 +30,7 @@
   "jpaMetamodelFiltering": true,
   "name": "BankBranchCode",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

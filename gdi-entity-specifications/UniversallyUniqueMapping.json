@@ -17,6 +17,7 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "UniversallyUniqueMapping",
+  "searchEngine": "elasticsearch",
   "pagination": "pagination",
   "readOnly": false,
   "relationships": [

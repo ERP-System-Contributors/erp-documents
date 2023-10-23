@@ -55,6 +55,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ContractMetadata",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

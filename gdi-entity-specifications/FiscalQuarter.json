@@ -53,6 +53,7 @@
   "readOnly": false,
   "pagination": "pagination",
   "name": "FiscalQuarter",
+  "searchEngine": "elasticsearch",
   "changelogDate": "20230816125243",
   "incrementalChangelog": false
 }

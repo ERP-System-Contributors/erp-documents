@@ -22,6 +22,7 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "UltimateBeneficiaryTypes",
+  "searchEngine": "elasticsearch",
   "pagination": "pagination",
   "readOnly": false,
   "relationships": [],

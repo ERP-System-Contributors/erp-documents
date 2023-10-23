@@ -28,6 +28,7 @@
   "jpaMetamodelFiltering": true,
   "name": "LoanPerformanceClassification",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

@@ -24,6 +24,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ShareHoldingFlag",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

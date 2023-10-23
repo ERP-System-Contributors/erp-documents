@@ -23,6 +23,7 @@
   "jpaMetamodelFiltering": true,
   "name": "MoratoriumItem",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

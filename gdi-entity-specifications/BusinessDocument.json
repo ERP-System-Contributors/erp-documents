@@ -46,6 +46,7 @@
   "jpaMetamodelFiltering": true,
   "name": "BusinessDocument",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

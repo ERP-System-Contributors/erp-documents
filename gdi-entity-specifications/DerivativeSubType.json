@@ -23,6 +23,7 @@
   "jpaMetamodelFiltering": true,
   "name": "DerivativeSubType",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

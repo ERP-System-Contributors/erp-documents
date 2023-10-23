@@ -23,6 +23,7 @@
   "jpaMetamodelFiltering": true,
   "name": "LoanRestructureItem",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

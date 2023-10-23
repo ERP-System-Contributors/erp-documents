@@ -88,6 +88,7 @@
   "jpaMetamodelFiltering": true,
   "readOnly": false,
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "name": "ParticularsOfOutlet",
   "changelogDate": "20231004053154",
   "incrementalChangelog": false

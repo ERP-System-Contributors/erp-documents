@@ -59,6 +59,7 @@
   "readOnly": false,
   "pagination": "pagination",
   "name": "ExchangeRate",
+  "searchEngine": "elasticsearch",
   "changelogDate": "20231003140605",
   "incrementalChangelog": false
 }

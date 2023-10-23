@@ -25,6 +25,7 @@
   "jpaMetamodelFiltering": true,
   "name": "RemittanceFlag",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

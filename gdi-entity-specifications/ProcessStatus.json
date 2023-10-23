@@ -18,6 +18,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ProcessStatus",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

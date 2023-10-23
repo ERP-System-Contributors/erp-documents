@@ -58,6 +58,7 @@
   "readOnly": false,
   "pagination": "pagination",
   "name": "FiscalYear",
+  "searchEngine": "elasticsearch",
   "changelogDate": "20230816114147",
   "incrementalChangelog": false
 }

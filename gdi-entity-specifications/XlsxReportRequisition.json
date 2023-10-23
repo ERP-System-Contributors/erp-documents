@@ -35,6 +35,7 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "XlsxReportRequisition",
+  "searchEngine": "elasticsearch",
   "pagination": "pagination",
   "readOnly": false,
   "relationships": [

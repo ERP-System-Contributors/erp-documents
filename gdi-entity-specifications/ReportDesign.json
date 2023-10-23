@@ -38,6 +38,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ReportDesign",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

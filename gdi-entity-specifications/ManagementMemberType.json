@@ -18,6 +18,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ManagementMemberType",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

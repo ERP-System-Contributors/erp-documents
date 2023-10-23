@@ -88,6 +88,7 @@
   "jpaMetamodelFiltering": true,
   "readOnly": false,
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "name": "TerminalsAndPOS",
   "changelogDate": "20231004070943",
   "incrementalChangelog": false

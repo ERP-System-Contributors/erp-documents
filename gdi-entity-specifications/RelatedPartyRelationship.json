@@ -45,6 +45,7 @@
   "jpaMetamodelFiltering": true,
   "readOnly": false,
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "name": "RelatedPartyRelationship",
   "changelogDate": "20231004065545",
   "incrementalChangelog": false

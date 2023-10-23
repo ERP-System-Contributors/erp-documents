@@ -24,6 +24,7 @@
   "jpaMetamodelFiltering": true,
   "name": "MfbBranchCode",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

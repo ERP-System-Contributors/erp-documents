@@ -28,6 +28,7 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "SourceRemittancePurposeType",
+  "searchEngine": "elasticsearch",
   "pagination": "pagination",
   "readOnly": false,
   "relationships": [],

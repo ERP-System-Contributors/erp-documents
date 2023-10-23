@@ -19,6 +19,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ShareholderType",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

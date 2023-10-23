@@ -48,6 +48,7 @@
   "jpaMetamodelFiltering": true,
   "name": "GdiTransactionDataIndex",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

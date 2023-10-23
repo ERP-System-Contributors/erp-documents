@@ -24,6 +24,7 @@
   "jpaMetamodelFiltering": true,
   "name": "LoanRestructureFlag",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

@@ -19,6 +19,7 @@
   "name": "EmploymentTerms",
   "pagination": "pagination",
   "readOnly": false,
+  "searchEngine": "elasticsearch",
   "relationships": [],
   "service": "serviceImpl"
 }

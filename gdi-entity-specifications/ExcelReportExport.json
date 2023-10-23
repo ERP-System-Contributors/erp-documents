@@ -43,6 +43,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ExcelReportExport",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [
     {

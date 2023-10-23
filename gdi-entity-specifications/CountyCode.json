@@ -27,7 +27,8 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "CountyCode",
-  "pagination": "infinite-scroll",
+  "searchEngine": "elasticsearch",
+  "pagination": "pagination",
   "readOnly": false,
   "relationships": [
     {

@@ -17,6 +17,7 @@
   "jpaMetamodelFiltering": true,
   "name": "ReasonsForBouncedCheque",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceImpl"

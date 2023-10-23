@@ -23,6 +23,7 @@
   "jpaMetamodelFiltering": true,
   "name": "LoanDeclineReason",
   "pagination": "pagination",
+  "searchEngine": "elasticsearch",
   "readOnly": false,
   "relationships": [],
   "service": "serviceClass"

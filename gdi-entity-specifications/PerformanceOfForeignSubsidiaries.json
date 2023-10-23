@@ -102,6 +102,7 @@
   "pagination": "pagination",
   "name": "PerformanceOfForeignSubsidiaries",
   "changelogDate": "20231004090122",
+  "searchEngine": "elasticsearch",
   "incrementalChangelog": false,
   "entityTableName": "foreign_subsidiary_performance"
 }

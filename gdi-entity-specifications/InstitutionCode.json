@@ -41,6 +41,7 @@
   "incrementalChangelog": false,
   "jpaMetamodelFiltering": true,
   "name": "InstitutionCode",
+  "searchEngine": "elasticsearch",
   "pagination": "pagination",
   "readOnly": false,
   "relationships": [
